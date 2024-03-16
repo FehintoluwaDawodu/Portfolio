@@ -15,7 +15,7 @@ Intern Data Analyst @ Quantum Analytics
 
 ### Project
 **COVID-19 Traffic**
-The dataset shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. the baseline period was between 1st February-15th March 2020.
+- The dataset shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. the baseline period was between 1st February-15th March 2020.
 
 
 **COVID-19 Report**
