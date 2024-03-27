@@ -25,17 +25,41 @@ Intern Data Analyst @ Quantum Analytics
 ### WHO COVID-19 Report
 - Project Overview: This shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. The baseline period was between 1st February-15th March 2020 [WHO COVID-19 Report](/asset/WHO_COVID-19_Report.png)
   
-- Data Source:
+- Tools:
+  - Excel
+  - Power BI
+ 
+- Data cleaning and preparation: The data was very dirty and raw. The values not properly enter, the date had a lot of inaccuracy. The data was cleaned using excel.
   
 ### Shark Attack**
 - Project Overview: The dataset contains data on shark attack over the past 100 years. The various locations in which this attack occured, activity, vitim information, and shark species were gotten from the dataset [Shark Attack](/asset/Shark_Attack.png)
 
   
+Tools:
+  - Excel
+  - Power BI
+ 
+- Data cleaning and preparation: The data was very dirty and raw. The values not properly enter, the date had a lot of inaccuracy. The data was cleaned using excel.
+
+- Results and Findings:
+  - It was observed that shark attack occured more in the morning
+  - The number of cases of shark attack was more amongst youth than age group
+  - July had the highest recorded number of death.
+
+- Recommendation:
+   - Access to water bodies should be limited in the morning as it has been obeserved to have the highest number of cases
+   - First aid treatment should made available and accessible to individuals in order to reduce fatality.
+     
+ 
 ### Cholera Outbreak in Stockholm
 - Project Overview:  The project contains data about cholera outbreak in Stockholms in the year 1853. The data was in
   
 - Data Source: The data was gotten from national Archive of Sweden
-- Tools:
+   - All data can be found at the National Archive of Sweden. See https://sok.riksarkivet.se/digitalaforskarsalen (press "Other languages" for an English version).
+   - Another important source for further analysis is "Sundhets-collegii underdåniga berättele om 
+Kolerafarsoten i Sverge, 1853" which is a broad overview of the epidemic situation in all of Sweden. 
+This contemporary report can be found at Statistics Sweden (SCB) : See this link.
+:
    - Excel
    - Power BI
      
