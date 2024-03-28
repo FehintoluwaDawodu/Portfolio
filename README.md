@@ -17,10 +17,13 @@ Intern Data Analyst @ Quantum Analytics
 ### COVID-19 Traffic
 - The dataset shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. the baseline period was between 1st February-15th March 2020 [COVID-19 Traffic](/asset/COVID-19_Traffic.png)
 
+![COVID-19_Traffic](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/4277e14d-69db-4127-9392-45b768ccbd07)
+
 
 **COVID-19 Report**
 - This project involves creation of an insightful visual of the COVID-19 report in Nigeria. the data was gotten from NCDC website on the 20th of June, 2022. The data contains information about COVID-19 cases in Nigeria [COVID-19 Report](/asset/COVID-19_Report.png)
 
+![COVID-19_Report](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/353186dc-e7a4-4863-b8e5-59781c6ebee8)
   
 ### WHO COVID-19 Report
 - Project Overview: This shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. The baseline period was between 1st February-15th March 2020 [WHO COVID-19 Report](/asset/WHO_COVID-19_Report.png)
@@ -30,6 +33,9 @@ Intern Data Analyst @ Quantum Analytics
   - Power BI
  
 - Data cleaning and preparation: The data was very dirty and raw. The values not properly enter, the date had a lot of inaccuracy. The data was cleaned using excel.
+
+![WHO_COVID-19_Report](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/3c506065-47e6-43c7-adc0-93d166d4127a)
+
   
 ### Shark Attack**
 - Project Overview: The dataset contains data on shark attack over the past 100 years. The various locations in which this attack occured, activity, vitim information, and shark species were gotten from the dataset [Shark Attack](/asset/Shark_Attack.png)
@@ -38,7 +44,12 @@ Intern Data Analyst @ Quantum Analytics
 Tools:
   - Excel
   - Power BI
- 
+    
+![Shark_Attack](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/572be3ea-a723-452b-97b8-0f674da59afe)
+
+![Shark_Attack](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/a435c61b-3cca-409f-b986-dfa8070aaeb2)
+
+
 - Data cleaning and preparation: The data was very dirty and raw. The values not properly enter, the date had a lot of inaccuracy. The data was cleaned using excel.
 
 - Results and Findings:
@@ -59,10 +70,13 @@ Tools:
    - Another important source for further analysis is "Sundhets-collegii underdåniga berättele om 
 Kolerafarsoten i Sverge, 1853" which is a broad overview of the epidemic situation in all of Sweden. 
 This contemporary report can be found at Statistics Sweden (SCB) : See this link.
-:
+
+- Tools:
    - Excel
    - Power BI
-     
+
+![Cholera_Outbreak_in_Stockholm](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/848aa8ec-21c5-4fc1-86c7-a4e4a4726682)
+    
 - Data cleaning and preparation:
   1. The data was cleaned using excel.
   2. Basic interpretation of the words in English was carried out using Google translation
