@@ -42,23 +42,31 @@ Intern Data Analyst @ Quantum Analytics
    - The morbidity rate was 5245.5 per million
    - The mortality rate was 64.9 per million
    - Lagos state was observed to have the number of cases and the highest number of death recorded.
-  
-### WHO COVID-19 Report
-- Project Overview: This project is a report of COVID-19This shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. The baseline period was between 1st February-15th March 2020 [WHO COVID-19 Report](/asset/WHO_COVID-19_Report.png)
+
+- Recommendation: To curb the spread of COVID-19, it is important to prevent movement from endemic areas to less affected areas 
+
+  ### WHO COVID-19 Report
+- Project Overview: This project is a report of COVID-19 in the world. The dataset provides information about the number of cases, death and vaccination status of various countries. [WHO COVID-19 Report](/asset/WHO_COVID-19_Report.png)
 
 - Data Source: WHO website
   
 - Tools:
-  - Excel
-  - Power BI
+  - Tableau
  
-- Data cleaning and preparation: The data was very dirty and raw. The values not properly enter, the date had a lot of inaccuracy. The data was cleaned using excel.
+- Data cleaning and preparation: The data was very clean and suitable for analysis without further cleaning.
+
+- Data analysis:
+- Results/findings:
+   - Western pacific region of WHO was observed to have the highest vaccinated individuals
+   - United state had the highest number of cases and death.
+   - India had the highest number of vaccinated individuals.
+     
 
 ![WHO_COVID-19_Report](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/3c506065-47e6-43c7-adc0-93d166d4127a)
 
   
 ### Shark Attack**
-- Project Overview: The dataset contains data on shark attack over the past 100 years. The various locations in which this attack occured, activity, vitim information, and shark species were gotten from the dataset [Shark Attack](/asset/Shark_Attack.png)
+- Project Overview: The dataset contains data on shark ae past 100 years. The various locations in which this attack occured, activity, vitim information, and shark species were gotten from the dataset [Shark Attack](/asset/Shark_Attack.png)
 
   
 Tools:
