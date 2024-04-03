@@ -24,16 +24,29 @@ Intern Data Analyst @ Quantum Analytics
   - Tableau
 
 **COVID-19 Report**
-- This project involves creation of an insightful visual of the COVID-19 report in Nigeria. the data was gotten from NCDC website on the 20th of June, 2022. The data contains information about COVID-19 cases in Nigeria [COVID-19 Report](/asset/COVID-19_Report.png)
+- Project Overview: This project is a data of COVID-19 report for Nigeria as at 20th June, 2022. The data contain the number of death, cases per state.
+
+- Data Source: The data was gotten from NCDC website on the 20th of June, 2022.
 
 ![COVID-19_Report](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/353186dc-e7a4-4863-b8e5-59781c6ebee8)
 
 - Tools
   - Excel
-  - Tableau
+  - Power BI
+    
+- Data cleaning: The data gotten from the site was clean and good for analysis.
+  
+- Data analysis: Mortality rate and morbidity rate was calculated for the analysis.
+  
+- Results and findings:
+   - The morbidity rate was 5245.5 per million
+   - The mortality rate was 64.9 per million
+   - Lagos state was observed to have the number of cases and the highest number of death recorded.
   
 ### WHO COVID-19 Report
-- Project Overview: This shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. The baseline period was between 1st February-15th March 2020 [WHO COVID-19 Report](/asset/WHO_COVID-19_Report.png)
+- Project Overview: This project is a report of COVID-19This shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. The baseline period was between 1st February-15th March 2020 [WHO COVID-19 Report](/asset/WHO_COVID-19_Report.png)
+
+- Data Source: WHO website
   
 - Tools:
   - Excel
