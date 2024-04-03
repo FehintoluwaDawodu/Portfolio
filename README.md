@@ -15,15 +15,22 @@ Intern Data Analyst @ Quantum Analytics
 
 ## Project
 ### COVID-19 Traffic
-- The dataset shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. the baseline period was between 1st February-15th March 2020 [COVID-19 Traffic](/asset/COVID-19_Traffic.png)
+- The dataset shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. The baseline period was between 1st February-15th March 2020 [COVID-19 Traffic](/asset/COVID-19_Traffic.png)
 
 ![COVID-19_Traffic](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/4277e14d-69db-4127-9392-45b768ccbd07)
 
+- Tools
+  - Excel
+  - Tableau
 
 **COVID-19 Report**
 - This project involves creation of an insightful visual of the COVID-19 report in Nigeria. the data was gotten from NCDC website on the 20th of June, 2022. The data contains information about COVID-19 cases in Nigeria [COVID-19 Report](/asset/COVID-19_Report.png)
 
 ![COVID-19_Report](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/353186dc-e7a4-4863-b8e5-59781c6ebee8)
+
+- Tools
+  - Excel
+  - Tableau
   
 ### WHO COVID-19 Report
 - Project Overview: This shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. The baseline period was between 1st February-15th March 2020 [WHO COVID-19 Report](/asset/WHO_COVID-19_Report.png)
