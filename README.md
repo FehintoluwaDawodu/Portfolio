@@ -14,7 +14,7 @@ Intern Data Analyst @ Quantum Analytics
 - Developed and presented data visualization using Tableau and Power BI.
 
 ## Project
-### COVID-19 Traffic
+### COVID-19 impact on airport traffic
 - The dataset shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. The baseline period was between 1st February-15th March 2020 [COVID-19 Traffic](/asset/COVID-19_Traffic.png)
 
 ![COVID-19_Traffic](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/4277e14d-69db-4127-9392-45b768ccbd07)
@@ -22,8 +22,18 @@ Intern Data Analyst @ Quantum Analytics
 - Tools
   - Excel
   - Tableau
+    
+- Data cleaning: The data set was cleaned using excel
+  
+- Data analysis: Geospatial visual was created was created using Tableau.
+  
+- Results and findings:
+  - COVID-19 had the highest impact on the traffic in airport at the United States
+  - The percentage baseline was highest in march.
+- Recommendation 
 
-**COVID-19 Report**
+
+### COVID-19 Report
 - Project Overview: This project is a data of COVID-19 report for Nigeria as at 20th June, 2022. The data contain the number of death, cases per state.
 
 - Data Source: The data was gotten from NCDC website on the 20th of June, 2022.
@@ -65,7 +75,7 @@ Intern Data Analyst @ Quantum Analytics
 ![WHO_COVID-19_Report](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/3c506065-47e6-43c7-adc0-93d166d4127a)
 
   
-### Shark Attack**
+### Shark Attack
 - Project Overview: The dataset contains data on shark ae past 100 years. The various locations in which this attack occured, activity, vitim information, and shark species were gotten from the dataset [Shark Attack](/asset/Shark_Attack.png)
 
   
