@@ -51,7 +51,6 @@ Tools:
   - The number of cases of shark attack was more amongst youth than age group
   - July had the highest recorded number of death.
 
-![Shark_Attack](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/572be3ea-a723-452b-97b8-0f674da59afe)
 
 ![Shark_Attack](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/a435c61b-3cca-409f-b986-dfa8070aaeb2)
 
@@ -64,9 +63,8 @@ Tools:
   
 - Data Source: The data was gotten from national Archive of Sweden
    - All data can be found at the National Archive of Sweden. See https://sok.riksarkivet.se/digitalaforskarsalen (press "Other languages" for an English version).
-   - Another important source for further analysis is "Sundhets-collegii underdåniga berättele om 
-Kolerafarsoten i Sverge, 1853" which is a broad overview of the epidemic situation in all of Sweden. 
-This contemporary report can be found at Statistics Sweden (SCB) : See this link.
+   - Another important source for further analysis is "Sundhets-collegii underdåniga berättele om  Kolerafarsoten i Sverge, 1853" which is a broad overview of the epidemic situation in all of Sweden. 
+  - This contemporary report can be found at Statistics Sweden (SCB) : See this link.
 
 - Tools:
    - Excel
@@ -114,7 +112,6 @@ This contemporary report can be found at Statistics Sweden (SCB) : See this link
 ### COVID-19 Airport traffic
 - The dataset shows the traffic to and from airport as a percentage of the traffic volume during the baseline period. The baseline period was between 1st February-15th March 2020 [COVID-19 Traffic](/asset/COVID-19_Traffic.png)
 
-![COVID-19_Traffic](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/4277e14d-69db-4127-9392-45b768ccbd07)
 
 - Tools
   - Excel
@@ -123,11 +120,13 @@ This contemporary report can be found at Statistics Sweden (SCB) : See this link
 - Data cleaning: The data set was cleaned using excel
   
 - Data analysis: Geospatial visual was created was created using Tableau.
+
+![COVID-19_Traffic](https://github.com/FehintoluwaDawodu/Portfolio/assets/162819649/4277e14d-69db-4127-9392-45b768ccbd07)
   
 - Results and findings:
   - COVID-19 had the highest impact on the traffic in airport at the United States
   - The percentage baseline was highest in march.
-- Recommendation 
+  
 
 
  
