@@ -15,7 +15,7 @@ Intern Data Analyst @ Quantum Analytics
 
 ## Project
 ### NCDC COVID-19 Report
-- Project Overview: This project is a data of COVID-19 report for Nigeria as at 20th June, 2022. The data contain the number of death, cases per state.
+- Project Overview: This project is a data of COVID-19 report for Nigeria as at 20th June, 2022. The data contains the number of death, cases per state.
 
 - Data Source: The data was gotten from NCDC website on the 20th of June, 2022.
 
